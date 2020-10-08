@@ -2,6 +2,13 @@ body {
   margin: 0;
   text-align: center;
 }
+.arrow {
+  position: absolute;
+  left: 670px;
+  top: 1925px;
+  height: 200px;
+  width: 200px;
+}
 hr {
   margin: 0;
   padding: 0;
@@ -10,6 +17,7 @@ hr {
   margin: 100px auto 25px auto;
   font-family: "Architects Daughter", cursive;
   font-size: 5.625rem;
+  color: #66bfbf;
 }
 h2 {
   margin: 0;
@@ -37,10 +45,25 @@ h5 {
   padding-bottom: 0px;
   font-family: "Architects Daughter", cursive;
 }
-.skills-text {
-  margin: auto;
-  padding: 25px;
-  text-decoration-color: white;
+.text-class-img {
+  display: inline-block;
+  height: 10px;
+  font-family: "Sansita Swashed", cursive;
+}
+.text-class-img1 {
+  display: inline-block;
+  height: 150px;
+  width: 400px;
+  text-align: justify;
+  position: relative;
+  left: 450px;
+  bottom: 300px;
+  font-family: "Sansita Swashed", cursive;
+}
+
+.text-h2-shadow {
+  text-shadow: -7px 5px 5px rgb(0, 0, 0);
+  font-size: 40px;
 }
 .list-text {
   font-family: "Architects Daughter", cursive;
@@ -50,11 +73,28 @@ h5 {
   display: inline-block;
   width: 25%;
   height: 25%;
+  position: relative;
+  left: 450px;
 }
 .skills-arows {
   display: inline-block;
   width: 30%;
   height: 30%;
+}
+.skills-text {
+  margin: auto;
+  padding: 30px;
+  text-shadow: 5px 5px 5px rgb(241, 236, 213);
+  font-size: 40px;
+  color: white;
+  display: inline-block;
+  position: relative;
+  left: 450px;
+}
+.skill-row2 {
+  display: inline-block;
+  position: relative;
+  bottom: 400px;
 }
 .first-column {
   display: inline-block;
@@ -95,6 +135,7 @@ li {
 .p {
   font-family: "David Libre", serif;
   font-size: 1.75rem;
+  color: #66bfbf;
 }
 
 .top-container {
@@ -109,10 +150,15 @@ li {
 }
 .profile {
   padding-top: 20px;
+  position: relative;
+  right: 500px;
 }
 .skills-container {
   background-color: #0d7377;
   height: auto;
+}
+.img-text {
+  position: absolute;
 }
 .end-container {
   background-color: #212121;
@@ -155,7 +201,23 @@ li {
 .img-size {
   height: 300px;
   width: 300px;
+  padding-top: 20px;
 }
 .footer-link {
   padding: 20px;
+  font-family: "Berkshire Swash", cursive;
+}
+.move-to-right-text {
+  position: relative;
+  right: 400px;
+  bottom: 400px;
+}
+.knologies {
+  position: relative;
+  right: 400px;
+  bottom: 400px;
+}
+.gif-image {
+  size: 100px;
+  height: 100px;
 }
