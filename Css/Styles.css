@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+hr {
+  margin: 0;
+  padding: 0;
+}
+.h1-text-up {
+  margin: 100px auto 25px auto;
+  font-family: "Architects Daughter", cursive;
+}
+h2 {
+  margin: 0;
+  padding-bottom: 25px;
+}
+.h2-pading {
+  padding-top: 20px;
+  color: white;
+}
+.h3-desk {
+  font-family: "Architects Daughter", cursive;
+}
+h5 {
+  position: relative;
+  font-family: "El Messiri", sans-serif;
+}
+.h3-desk {
+  font-family: "Architects Daughter", cursive;
+  margin: 0;
+  padding-bottom: 25px;
+}
+.text-replace {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  font-family: "Architects Daughter", cursive;
+}
+.skills-text {
+  margin: auto;
+  padding: 25px;
+  text-decoration-color: white;
+}
+.list-text {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Nanum Myeongjo", serif;
+}
+.skills-img {
+  display: inline-block;
+  width: 25%;
+  height: 25%;
+}
+.skills-arows {
+  display: inline-block;
+  width: 30%;
+  height: 30%;
+}
+.first-column {
+  display: inline-block;
+  position: relative;
+  left: 65px;
+  height: 100px;
+  width: 200px;
+  text-align: justify;
+}
+.second-column {
+  display: inline-block;
+  position: relative;
+  left: 60px;
+  height: 100px;
+  width: 200px;
+  text-align: justify;
+}
+.third-column {
+  display: inline-block;
+  position: relative;
+  left: 25px;
+  height: 100px;
+  width: 200px;
+  text-align: justify;
+}
+ul {
+  padding-left: 10px;
+}
+li {
+  font-family: "Nanum Myeongjo", serif;
+}
+.ingineer-image {
+  display: inline-block;
+  width: 20%;
+  height: 20%;
+  margin-top: 50px;
+}
+.p {
+  font-family: "David Libre", serif;
+  font-size: 15px;
+}
+
+.top-container {
+  background-color: #eeeeee;
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+.middle-container {
+  background-color: #32e0c4;
+  height: auto;
+}
+.profile {
+  padding-top: 20px;
+}
+.skills-container {
+  background-color: #0d7377;
+  height: auto;
+}
+.end-container {
+  background-color: #212121;
+  height: auto;
+}
+.contact-me {
+  background-color: #212121;
+  height: auto;
+}
+.copyright-pading {
+  color: white;
+  padding-bottom: 10px;
+}
+.span {
+  text-decoration: underline;
+}
+
+.img1 {
+  display: inline-block;
+  position: absolute;
+  width: 90px;
+  height: 50px;
+  top: 90px;
+  right: 550px;
+}
+
+.img2 {
+  display: inline-block;
+  position: absolute;
+  width: 90px;
+  height: 50px;
+  left: 500px;
+  top: 150px;
+}
+.img3 {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+.img-size {
+  height: 300px;
+  width: 300px;
+}
+.footer-link {
+  padding: 20px;
+}
