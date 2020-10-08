@@ -9,6 +9,7 @@ hr {
 .h1-text-up {
   margin: 100px auto 25px auto;
   font-family: "Architects Daughter", cursive;
+  font-size: 5.625rem;
 }
 h2 {
   margin: 0;
@@ -93,7 +94,7 @@ li {
 }
 .p {
   font-family: "David Libre", serif;
-  font-size: 15px;
+  font-size: 1.75rem;
 }
 
 .top-container {
@@ -135,7 +136,7 @@ li {
   width: 90px;
   height: 50px;
   top: 90px;
-  right: 550px;
+  right: 500px;
 }
 
 .img2 {
